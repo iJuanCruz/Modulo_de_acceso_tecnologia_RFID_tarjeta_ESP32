@@ -1,2 +1,0 @@
-# Modulo_de_acceso_tecnologia_RFID_tarjeta_ESP32
-Modulo_de_acceso_tecnologia_RFID_tarjeta_ESP32
